@@ -1,0 +1,6 @@
+{
+  "name": "Deadzone Drive",
+  "description": "Offline 2D/3D Survival-Shooter und Fahrspiel mit sechs großen Welten, Monster-Wellen, Bosskämpfen, Fahrzeugen, Waffen-Skins und lokalem Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

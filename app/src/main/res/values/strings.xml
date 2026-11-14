@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Deadzone Drive</string>
+    <string name="tagline_offline">OFFLINE SURVIVAL • 2D &amp; 3D</string>
+    <string name="action_play_now">START DEPLOYMENT</string>
+    <string name="action_worlds">WORLDS (6 MAPS)</string>
+    <string name="action_shop">ARSENAL &amp; LOCKER</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_restart">RESTART</string>
+    <string name="action_main_menu">MAIN MENU</string>
+    <string name="hud_mode_3d">3D</string>
+    <string name="hud_mode_2d">2D</string>
+    <string name="hud_enter_car">DRIVE</string>
+    <string name="hud_exit_car">EXIT</string>
+    <string name="hud_reload">RELOAD</string>
+    <string name="hud_nitro">NITRO</string>
+    <string name="hud_fire">FIRE</string>
+    <string name="hud_brake">BRAKE</string>
+    <string name="hud_gas">GAS</string>
+</resources>
